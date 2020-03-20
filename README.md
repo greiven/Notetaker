@@ -9,5 +9,5 @@ As a user, I want to be able to write and save notes.
 
 
 
-![Intro](./assets/Screenshot1.PNG)
-![main](./assets/Screenshot.PNG)
+![Intro](./Screenshot.PNG)
+![main](./Screenshot1.PNG)
